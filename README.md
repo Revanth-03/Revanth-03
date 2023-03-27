@@ -1,11 +1,8 @@
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Revanth Srinivas</h1>
-<h3 align="center">A passionate Software developer from India</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=revanth-03&label=Profile%20views&color=0e75b6&style=flat" alt="revanth-03" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=revanth-03" alt="revanth-03" /></a> </p>
-
-- 🔭 I’m currently working on **3D-Web Design**
+<h3 align="center">A passionate Software web developer from India</h3>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+- 🔭 I’m currently working on **3D-Web Desiging**
 
 - 🌱 I’m currently learning **ThreeJs**
 
@@ -16,6 +13,7 @@
 - ⚡ Fun fact **Languages Know :-English , Telugu**
 
 <h3 align="left">Connect with me:</h3>
+
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/revanth-srinivaslu/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/revanth-srinivaslu/" height="30" width="40" /></a>
 </p>
@@ -27,4 +25,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=revanth-03&show_icons=true&locale=en" alt="revanth-03" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=revanth-03&" alt="revanth-03" /></p>
