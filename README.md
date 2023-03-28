@@ -1,5 +1,5 @@
 
-<img height = "300px" width = "100%" object-fit="cover" src="https://firebasestorage.googleapis.com/v0/b/react-chat-app-17a59.appspot.com/o/fotis-fotopoulos-6sAl6aQ4OWI-unsplash.jpg?alt=media&token=76d42e4d-b728-4078-a6b2-9e944521a0fe">
+<img height = "350px" width = "100%" object-fit="contain" src="https://firebasestorage.googleapis.com/v0/b/react-chat-app-17a59.appspot.com/o/fotis-fotopoulos-6sAl6aQ4OWI-unsplash.jpg?alt=media&token=76d42e4d-b728-4078-a6b2-9e944521a0fe">
 <h1 align="center">Hi 👋, I'm Revanth Srinivas</h1>
 <h3 align="center">A passionate Software web developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
