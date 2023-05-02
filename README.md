@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **fully functional youtube clone with react,rebux,firebase,Youtube API**
 
-- 💬 Ask me about **react,javascript,html,css,node ,express,mongodb,Java,DSA,OOPS**
+- 💬 Ask me about **react,javascript,html,css,nodejs ,express,mongodb,Java,DSA,OOPS**
 
 - 📫 How to reach me **revanthsrinivaslu03@gmail.com**
 
